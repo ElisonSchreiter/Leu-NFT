@@ -55,7 +55,7 @@ main {
   top: 0;
 }
 
-#card-info h2 {
+#card-info h1 {
   color: hsl(0, 0%, 100%);
   font-weight: 600;
   margin-top: 20px;
